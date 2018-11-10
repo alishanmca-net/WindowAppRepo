@@ -26,7 +26,7 @@ namespace CalanderReasoningWindowApp
             }
             else
             {
-                MessageBox.Show($"{y} is not a Leap Year");
+                MessageBox.Show($"{y} is not a Leap Year Alishan" );
             }
         }
     }
